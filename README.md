@@ -9,3 +9,6 @@ Bu depo Gıthubı öğrenirken oluşturduğum ilk depo
 ## bu depoda neler var?
 
 -[ilk programim](kodlar/merhaba.py)
+
+## Hobilerim
+-futbol
