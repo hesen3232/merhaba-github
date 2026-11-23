@@ -12,4 +12,3 @@ Bu depo Gıthubı öğrenirken oluşturduğum ilk depo
 
 ## Hobilerim
 -futbol
-
